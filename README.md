@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps practices, cloud deployments, and advanced React development.**
 
-- 👯 I’m looking to collaborate on **ull-stack web development projects, Python applications, and DevOps tools.**
+- 👯 I’m looking to collaborate on **Full-Stack web development projects, Python applications, and DevOps tools.**
 
 - 🤝 I’m looking for help with **optimizing deployment pipelines and integrating APIs in web applications.**
 
